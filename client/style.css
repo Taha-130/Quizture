@@ -1,0 +1,78 @@
+/* General body styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f6f8;
+}
+
+/* Container styling */
+#quiz-container {
+    max-width: 400px;
+    padding: 20px;
+    border-radius: 12px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Question styling */
+#question {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+/* Button styling */
+#options button {
+    display: block;
+    width: 100%;
+    margin: 8px 0;
+    padding: 12px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #444;
+    background-color: #e7e9eb;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Button hover effect */
+#options button:hover {
+    background-color: #d1d3d5;
+    transform: translateY(-2px);
+}
+
+/* Correct and incorrect answer styling */
+.correct {
+    background-color: #4CAF50 !important;
+    color: #fff !important;
+}
+
+.incorrect {
+    background-color: #f44336 !important;
+    color: #fff !important;
+}
+
+/* Next button styling */
+#next-btn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #44c268;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Next button hover effect */
+#next-btn:hover {
+    background-color: #3da759;
+}

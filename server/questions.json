@@ -1,0 +1,67 @@
+[
+    {
+        "question": "Dans le monde de l'informatique, que signifie l'acronyme 'API' ?",
+        "options": ["Application Programming Interface", "Apple Pie Inside", "Automated Programming Integration", "Applied Program Instruction"],
+        "answer": "Application Programming Interface"
+    },
+    {
+        "question": "Si Elise était un langage de programmation, elle serait...",
+        "options": ["Python - Parce que polyvalente", "JavaScript - Parce que partout", "Ruby - Parce que précieuse", "C++ - Parce que complexe"],
+        "answer": "JavaScript - Parce que partout"
+    },    
+    {
+        "question": "Si Taha crée une app, il utilisera probablement...",
+        "options": ["Java", "Python", "JavaScript", "Scratch"],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "Que fait Nina après le quiz ?",
+        "options": ["Repos bien mérité", "Rando de 10 km", "Soirée séries", "Marathon de codage"],
+        "answer": "Repos bien mérité"
+    },
+    {
+        "question": "Quel langage est souvent appelé 'le langage des dinosaures' pour sa longévité et son utilisation ?",
+        "options": ["Java", "Python", "Fortran", "Ruby"],
+        "answer": "Fortran"
+    },
+    {
+        "question": "Quel animal représente souvent la marque Linux ?",
+        "options": ["Un pingouin", "Un lion", "Un ours", "Un dragon"],
+        "answer": "Un pingouin"
+    },
+    {
+        "question": "Comment appelle-t-on une personne qui trouve des bugs dans les logiciels ?",
+        "options": ["Développeur", "Cracker", "Hacker", "Testeur"],
+        "answer": "Testeur"
+    },
+    {
+        "question": "Quelle est la signification de 'CSS' en développement web ?",
+        "options": ["Cascading Style Sheets", "Creative Style Solution", "Computer Style System", "Cascading System Solution"],
+        "answer": "Cascading Style Sheets"
+    },
+    {
+        "question": "Laquelle de ces langues est souvent utilisée pour l'intelligence artificielle ?",
+        "options": ["Python", "HTML", "CSS", "JavaScript"],
+        "answer": "Python"
+    },
+    {
+        "question": "Quelle méthode de contrôle de version est populaire parmi les développeurs ?",
+        "options": ["Git", "Byte", "NPM", "Curl"],
+        "answer": "Git"
+    },
+    {
+        "question": "Que veut dire l'acronyme 'SQL' dans le domaine des bases de données ?",
+        "options": ["Structured Query Language", "Simple Query Logic", "Standard Query Link", "Sorted Queue List"],
+        "answer": "Structured Query Language"
+    },
+    {
+        "question": "Quand une application est 'scalable', cela signifie qu'elle peut...",
+        "options": ["S'étendre pour gérer plus de charges", "Gérer des erreurs automatiquement", "S'adapter à toutes les plateformes", "Être utilisée sur un seul appareil"],
+        "answer": "S'étendre pour gérer plus de charges"
+    },
+    {
+        "question": "Quel est le mot préféré d'un développeur débutant quand il rencontre un problème ?",
+        "options": ["'Pourquoi ?!'", "'Eureka!'", "'Enfin!'", "'Pas encore...'"],
+        "answer": "'Pourquoi ?!'"
+    }
+]
